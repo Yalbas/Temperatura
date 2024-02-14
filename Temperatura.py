@@ -2,7 +2,7 @@
 
 # input
 
-C= input("Digite la cantidad de grados C a convertir")
+C= input("Digite la cantidad de grados C a convertir:")
 C= int(C)
 
 # Processing
